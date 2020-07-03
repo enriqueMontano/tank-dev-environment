@@ -1,3 +1,3 @@
 # tank-dev-environment
 
-One Paragraph of project description goes here
+Artificial Intelligence that pilots a tank through the battlefield and fights the enemy tanks.
